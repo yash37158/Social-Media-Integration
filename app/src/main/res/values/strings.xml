@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SocialmediaIntegration</string>
+    <string name="facebook">Facebook</string>
+    <string name="github">Github</string>
+    <string name="google">Google</string>
+</resources>
